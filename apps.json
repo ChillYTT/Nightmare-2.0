@@ -1,0 +1,72 @@
+[
+    {
+        "id": "0",
+        "title": "Vs Code",
+        "icon": "https://vscode.dev/static/stable/favicon.ico",
+        "type": "url",
+        "url": "https://vscode.dev"
+    },
+    {
+        "id": "1",
+        "title": "CrownJS",
+        "icon": "/apps/assets/crownjs.png",
+        "type": "js",
+        "js": "/apps/crownjs.js"
+    },
+    {
+        "id": "2",
+        "title": "Calculator",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Casio-fx115ES-5564.jpg",
+        "type": "url",
+        "url": "/apps/calculator.html"
+    },
+    {
+        "id": "3",
+        "title": "Notepad",
+        "icon": "https://cdn3.iconfinder.com/data/icons/basic-ui-line-circle/605/121_-_Report-512.png",
+        "type": "url",
+        "url": "/apps/notepad.html"
+    },
+    {
+    "id": "4",
+    "title": "Infinity",
+    "icon": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9jZG4uZGlzY29yZGFwcC5jb20=_/attachments/918733976921853996/928049376323059742/Untitled_drawing_5.png",
+    "type": "url",
+    "url": "/apps/infinity.html"
+    },
+        {
+        "id": "5",
+        "title": "Proxy",
+        "icon": "https://f4.bcbits.com/img/a2704802426_10.jpg",
+        "type": "url",
+        "url": "https://l.school-work.repl.co"
+    },
+    {
+        "id": "6",
+        "title": "yt unblocker",
+        "icon": "https://logodix.com/logo/2133561.png",
+        "type": "url",
+        "url": "https://mist.fognetwork.repl.co/"
+    },
+        {
+        "id": "7",
+        "title": "Discord",
+        "icon": "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png",
+        "type": "url",
+        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/login"
+    },
+            {
+        "id": "8",
+        "title": "Reddit",
+        "icon": "https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png",
+        "type": "url",
+        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly93d3cucmVkZGl0LmNvbQ==_/"
+    },
+    {
+    "id": "9",
+    "title": "credit ",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Magicdelivery_gaming_logo.svg/1000px-Magicdelivery_gaming_logo.svg.png",
+    "type": "url",
+    "url": "/apps/credit.html"
+    }
+]
