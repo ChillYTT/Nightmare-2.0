@@ -55,15 +55,8 @@
         "type": "url",
         "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/login"
     },
-            {
-        "id": "8",
-        "title": "Reddit",
-        "icon": "https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png",
-        "type": "url",
-        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly93d3cucmVkZGl0LmNvbQ==_/"
-    },
     {
-    "id": "9",
+    "id": "8",
     "title": "credit ",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Magicdelivery_gaming_logo.svg/1000px-Magicdelivery_gaming_logo.svg.png",
     "type": "url",
