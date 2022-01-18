@@ -55,8 +55,15 @@
         "type": "url",
         "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/login"
     },
+                   {
+        "id": "8",
+        "title": "Paper.io",
+        "icon": "https://play-lh.googleusercontent.com/gVWDgD1DOWbTjoZrI3hpg6kCh1TWoH4GInvrAmqkl50oKXEF1wG7ncxIrZPjlhTJnukg",
+        "type": "url",
+        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/"
+    },
     {
-    "id": "8",
+    "id": "9",
     "title": "credit ",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Magicdelivery_gaming_logo.svg/1000px-Magicdelivery_gaming_logo.svg.png",
     "type": "url",
