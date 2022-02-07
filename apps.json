@@ -29,37 +29,30 @@
     },
     {
     "id": "4",
-    "title": "Infinity",
+    "title": "Axis",
     "icon": "https://s2.coinmarketcap.com/static/img/coins/200x200/9603.png",
-    "url": "/apps/infinity.html"
+    "url": "https://axis-1.axis-net.repl.co/"
     },
         {
         "id": "5",
         "title": "Proxy",
         "icon": "https://f4.bcbits.com/img/a2704802426_10.jpg",
         "type": "url",
-        "url": "https://l.school-work.repl.co"
-    },
-    {
-        "id": "6",
-        "title": "yt unblocker",
-        "icon": "https://logodix.com/logo/2133561.png",
-        "type": "url",
-        "url": "https://Mist.git-network.repl.co"
+        "url": "https://lightyearv2.not-sus.repl.co"
     },
         {
         "id": "7",
         "title": "Discord",
         "icon": "https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png",
         "type": "url",
-        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/login"
+        "url": "https://lightyearv2.not-sus.repl.co/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/login"
     },
                    {
         "id": "8",
         "title": "Paper.io",
         "icon": "https://play-lh.googleusercontent.com/gVWDgD1DOWbTjoZrI3hpg6kCh1TWoH4GInvrAmqkl50oKXEF1wG7ncxIrZPjlhTJnukg",
         "type": "url",
-        "url": "https://l.school-work.repl.co/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/"
+        "url": "https://lightyearv2.not-sus.repl.co/web/_aHR0cHM6Ly9wYXBlci1pby5jb20=_/"
     },
     {
     "id": "9",
